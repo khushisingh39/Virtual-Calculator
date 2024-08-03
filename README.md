@@ -1,6 +1,7 @@
 # Virtual-Calculator
 ### A hand gesture-controlled calculator built with OpenCV and Python.
 
+
 **About:**
 
 A Virtual Calculator is a computer application that simulates a traditional calculator but allows users to interact with it using hand gestures instead of physical buttons. This project utilizes computer vision techniques to recognize hand movements and map them to corresponding calculator functions.
