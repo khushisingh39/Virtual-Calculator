@@ -15,7 +15,7 @@ A Virtual Calculator is a computer application that simulates a traditional calc
 
 **3. Gesture-based input:** Maps hand gestures to calculator button presses.
 
-**4. Basic arithmetic operations:** Supports addition, subtraction, multiplication, and division.
+**4. Basic arithmetic operations:** Supports addition, subtraction, multiplication, division and exponentiation.
 
 **5. Clear and delete functions:** Allows users to clear the entire equation or delete the last character.
 
