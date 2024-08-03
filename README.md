@@ -1,5 +1,5 @@
 # Virtual-Calculator
-## A hand gesture-controlled calculator built with OpenCV and Python.
+### A hand gesture-controlled calculator built with OpenCV and Python.
 
 **About:**
 
