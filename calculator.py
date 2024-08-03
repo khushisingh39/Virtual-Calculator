@@ -3,7 +3,7 @@ from hand_tracking import Tracker
 
 class Button:
     def __init__(self, x, y, w, h, value, 
-                 font=cv2.FONT_HERSHEY_COMPLEX, 
+                 font=cv2.FONT_HERSHEY_DUPLEX, 
                  font_color=(255, 255, 255), 
                  thick=1, font_size=1.2):
         self.x = x
@@ -12,7 +12,7 @@ class Button:
         self.h = h
         self.value = value
         
-        self.font = cv2.FONT_HERSHEY_COMPLEX
+        self.font = cv2.FONT_HERSHEY_DUPLEX
         self.font_color = (255, 255, 255)
         self.thick = 1
         self.font_size = 1.2
